@@ -3,7 +3,7 @@ import numpy as np
 low_green = np.array([40, 40, 40])
 high_green = np.array([65,200,200])
 file_path = "../result/"
-file = open('../picture_list.txt')
+file = open('./picture_list.txt')
 low_green = np.array([35, 70, 70])
 high_green = np.array([70, 200, 200])
 for line in file.readlines():
