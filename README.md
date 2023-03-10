@@ -1,5 +1,5 @@
-# Traditional_Lane_Detection
-BIT-CS Digital Image Process Great Assignment : Lane Detection based on traditional method.
+# 车道线检测-传统图像处理方法
+数字图像处理课程项目
 
 ### 项目简介
 1. 运用传统图像处理方法进行车道线检测
